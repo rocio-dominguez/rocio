@@ -1,6 +1,6 @@
 
 function accionsi(){
-    const respuesta=confirm("¿Estas seguro de querer ser mi mi amigo pase lo que pase,despues; No hay marcha atras?");
+    const respuesta=confirm("¿Estas seguro de querer ser mi mi amigo pase lo que pase, No hay marcha atras?");
     if(respuesta){
         window.location.href="opcionsi.html";
     } else {
